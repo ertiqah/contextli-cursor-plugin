@@ -1,0 +1,20 @@
+{
+  "name": "contextli",
+  "displayName": "Contextli",
+  "version": "1.0.0",
+  "description": "Contextli connector for Cursor: create, search and organise your Contextli notes, contexts and labels from the editor.",
+  "author": {
+    "name": "Ertiqah LLC",
+    "url": "https://ertiqah.com"
+  },
+  "homepage": "https://contextli.com/integrations/mcp",
+  "repository": "https://github.com/ertiqah/contextli-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "contextli",
+    "oauth"
+  ],
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}
